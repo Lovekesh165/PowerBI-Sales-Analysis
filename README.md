@@ -35,6 +35,19 @@ The main objectives of this project are:
 
 The Power BI dashboard contains interactive visualizations and KPI cards to help understand sales performance and business trends.
 
+---
+
+## 🖥️ Dashboard Preview
+
+### Dashboard Page 1
+![Dashboard Page 1](images/Dashboard-1.png)
+
+### Dashboard Page 2
+![Dashboard Page 2](images/Dashboard-2.png)
+
+### Dashboard Page 3
+![Dashboard Page 3](images/Dashboard-3.png)
+
 ### Key Dashboard Features
 
 - Sales Performance Analysis
